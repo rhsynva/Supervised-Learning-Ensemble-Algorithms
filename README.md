@@ -1,6 +1,6 @@
 # Supervised-Learning-Ensemble-Algorithms
 
-This repository contains a comprehensive implementation of supervised learning workflows, hyperparameter optimization, and advanced ensemble techniques applied to real-world dataset. The project bypasses high-level automated wrappers to manually implement performance evaluation, hyperparameter tuning via grid search, and architectural ensemble structures, establishing a deep foundational control over model generalization and optimization mechanics.
+I have developed a comprehensive implementation of supervised learning workflows, hyperparameter optimization, and advanced ensemble techniques applied to real-world dataset. The project bypasses high-level automated wrappers to manually implement performance evaluation, hyperparameter tuning via grid search, and architectural ensemble structures, establishing a deep foundational control over model generalization and optimization mechanics.
 
 ## Pipeline Architecture and Workflow
 
